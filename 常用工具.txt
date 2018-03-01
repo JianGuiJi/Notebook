@@ -1,0 +1,63 @@
+开发IDE：JetBrains PhpStorm 2017.1.3 x64 、IntelliJ IDEA 2017.3.2 x64
+
+接口调试工具：Postman
+
+数据库连接工具：Navicat 、MySQL Workbench、Studio 3T for MongoDB、RedisDesktopManager
+
+脑图工具:xMind
+
+Ftp客户端：FileZilla Client
+
+文本比较工具：BCompare
+
+数据包捕捉工具：Fiddler
+
+终端模拟软件：Xshell、PuTTY
+
+分布式版本控制：Git
+
+pdffactory pro（虚拟打印机）
+
+
+
+ｗinsw（服务嫁接）
+产品特点：小而轻，运行稳定，配置简单
+下载地址：http://repo.jenkins-ci.org/releases/com/sun/winsw/winsw/
+
+fiddler（网络监听）
+产品特点：简单好用，绿色免驱，firebug网络在这里简直没有可比性。
+下载地址：http://www.telerik.com/download/fiddler
+下载提醒：选择.NET4.0，点击Download Fiddler
+
+
+clumsy（差网络模拟）
+产品特点：无需代码，轻松模拟
+下载地址：http://jagt.github.io/clumsy/download.html
+下载提醒：选择64bit
+
+
+winscp（SFTP客户端）
+产品特点：SSH，SFTP 客户端，支持 SCP 协议。本远程机器安全互拷，还能直接编辑文件。不知道诸多装逼男嫌她只个FTP客户端是何用心。怪只怪她闺蜜putty人红是非多。
+下载地址：http://winscp.net/eng/download.php
+下载提醒：选择Portable executables下载
+
+
+putty（SSH客户端，配合winscp使用）
+产品特点：安静，内向，好用，但在国内屡遭汉化者植入木马后门造成在不明真像的IT烙下恶名。是winscp贴身闺蜜，由于其不善言谈，经常要winscp替作代理。
+下载地址：http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+下载提醒：点击A .ZIP file containing all the binaries 下方的putty.zip链接
+
+
+压缩解压
+7-zip
+下载地址：http://www.7-zip.org/
+安装路径：任意非根目录、Pro、Projects下。
+
+本地文件名搜索
+everything
+下载地址：http://www.voidtools.com/
+下载提醒：Portable x64 Multilingual。
+解压目录：任意非根目录、Pro、Projects下。
+
+
+

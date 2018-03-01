@@ -1,0 +1,7 @@
+已使用过的框架：
+php:laravel
+java:SSM(Spring+SpringMVC+Mybatis)、SpringBoot+JPA
+前端：jquery vueJs angularjs
+UI:BootStrap2/3 elementUI  iveiw
+
+
